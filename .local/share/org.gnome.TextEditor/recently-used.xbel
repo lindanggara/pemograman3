@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lindaanggara/data.txt" added="2025-05-28T12:58:39.499070Z" modified="2025-10-14T03:50:28.060371Z" visited="2025-10-14T10:50:15.658895+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T03:50:28.060370Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/5023219999_log.txt" added="2025-05-28T12:59:03.440493Z" modified="2025-09-09T00:55:13.061141Z" visited="2025-09-09T07:34:47.761007+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-09-09T00:55:13.061141Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/data-analysis-project/cherry-pick-project/dataset.csv" added="2025-09-17T09:00:15.965432Z" modified="2025-10-14T03:50:28.060360Z" visited="2025-10-14T10:50:15.666796+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T03:50:28.060358Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/data-analysis-project/README.md" added="2025-10-14T03:50:17.925543Z" modified="2025-10-15T11:56:09.785599Z" visited="2025-10-15T18:46:10.744841+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-15T11:56:09.785599Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/praktikum-git/README.md" added="2025-10-14T03:52:13.933921Z" modified="2025-10-15T11:56:09.785596Z" visited="2025-10-15T18:46:10.979890+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-15T11:56:09.785594Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/hasil_penjumlahan.csv" added="2025-10-14T18:12:10.440178Z" modified="2025-10-14T18:12:13.072381Z" visited="2025-10-15T01:12:08.996665+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T18:12:13.072380Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/hasil_perkalian.csv" added="2025-10-14T18:12:18.441008Z" modified="2025-10-14T18:12:19.462369Z" visited="2025-10-15T01:12:15.924682+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T18:12:19.462368Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/matriks_output.csv" added="2025-10-14T18:12:29.452835Z" modified="2025-10-14T18:13:32.007914Z" visited="2025-10-15T01:12:28.929842+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T18:13:32.007914Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/matriks/core/exporters/csv_exporter.py" added="2025-10-14T18:16:47.443500Z" modified="2025-10-14T18:54:23.597584Z" visited="2025-10-15T01:16:44.657197+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-14T18:54:23.597584Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Downloads/student_performance.csv" added="2025-10-14T19:10:46.470010Z" modified="2025-10-15T11:56:09.785602Z" visited="2025-10-15T18:46:11.421444+07">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-15T11:56:09.785601Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

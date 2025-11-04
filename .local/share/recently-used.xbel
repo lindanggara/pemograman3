@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/lindaanggara/disk/PRESEED.CFG" added="2025-04-14T04:11:05.033012Z" modified="2025-04-14T04:11:05.203234Z" visited="2025-04-14T04:11:05.033013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-04-14T04:11:05.203226Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/data.txt" added="2025-05-28T12:58:35.502602Z" modified="2025-05-28T12:58:35.502629Z" visited="2025-05-28T12:58:35.502603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-05-28T12:58:35.502627Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/nrp_monssh.sh" added="2025-05-28T12:58:41.105157Z" modified="2025-05-28T12:58:41.105160Z" visited="2025-05-28T12:58:41.105158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2025-05-28T12:58:41.105159Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/3324600008_backup.sh" added="2025-05-28T12:58:49.322084Z" modified="2025-05-28T12:58:49.322089Z" visited="2025-05-28T12:58:49.322086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2025-05-28T12:58:49.322087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/3324600008_suhukelembaban.sh" added="2025-05-28T12:58:55.545431Z" modified="2025-05-28T12:58:55.545437Z" visited="2025-05-28T12:58:55.545432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2025-05-28T12:58:55.545434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/5023219999_log.txt" added="2025-05-28T12:59:00.799567Z" modified="2025-05-28T12:59:00.799572Z" visited="2025-05-28T12:59:00.799568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-05-28T12:59:00.799569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/ngrok-stable-linux-amd64.zip.1" added="2025-09-02T15:03:13.639758Z" modified="2025-09-02T15:03:13.639762Z" visited="2025-09-02T15:03:13.639759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-troff-man"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-02T15:03:13.639760Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Documents/tmp/test1/Untitled%20Document%201" added="2025-09-02T15:09:48.087988Z" modified="2025-09-02T15:54:04.237853Z" visited="2025-09-02T15:09:48.087989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-02T15:54:04.237851Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Documents/tmp/test1/hello.c" added="2025-09-02T15:19:19.797197Z" modified="2025-09-02T15:21:03.147064Z" visited="2025-09-02T15:19:19.797199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2025-09-02T15:21:03.147053Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-02T15:20:32.596316Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Documents/tmp/test1/linda" added="2025-09-02T15:54:51.358285Z" modified="2025-09-02T16:11:40.926567Z" visited="2025-09-02T15:54:51.358287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-02T16:11:40.926564Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/test2/hello.c" added="2025-09-02T16:43:32.250417Z" modified="2025-09-02T16:49:34.997533Z" visited="2025-09-02T16:43:32.250418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-02T16:49:34.997530Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks.py" added="2025-09-08T08:34:44.194454Z" modified="2025-09-09T00:34:46.047626Z" visited="2025-09-08T08:34:44.194456Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-08T08:34:44.466153Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-09T00:34:46.047625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/operations" added="2025-09-09T13:44:26.002230Z" modified="2025-09-09T13:44:26.024286Z" visited="2025-09-09T13:44:26.002231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-09T13:44:26.024283Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matrix.py" added="2025-09-09T14:20:47.942915Z" modified="2025-09-09T16:35:33.081653Z" visited="2025-09-09T14:20:47.942915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-09T16:35:33.081619Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Downloads/Pertemuan%2011%20-%20Simple%20Web%20App%20Using%20Database.pdf" added="2025-09-17T08:30:32.977277Z" modified="2025-10-14T03:52:46.489788Z" visited="2025-09-17T08:30:32.977277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-10-14T03:52:45.563511Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-10-14T03:52:46.489780Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks/matrix.py" added="2025-09-17T08:59:35.712404Z" modified="2025-09-17T09:03:14.266580Z" visited="2025-09-17T08:59:35.712405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-17T09:03:14.266575Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks/main.py" added="2025-09-17T08:59:47.718995Z" modified="2025-09-17T08:59:47.719001Z" visited="2025-09-17T08:59:47.718997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-17T08:59:47.718998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/data-analysis-project/cherry-pick-project/dataset.csv" added="2025-09-17T09:00:12.379213Z" modified="2025-09-17T09:00:12.379218Z" visited="2025-09-17T09:00:12.379214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-17T09:00:12.379216Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks/main_sparse.py" added="2025-09-17T09:03:20.320191Z" modified="2025-09-17T09:03:20.320196Z" visited="2025-09-17T09:03:20.320192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-17T09:03:20.320192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks/matriks_output.csv" added="2025-09-17T09:05:02.645502Z" modified="2025-10-14T03:49:59.421547Z" visited="2025-09-17T09:05:02.645504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T03:49:59.421542Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks/matriks_output.json" added="2025-09-17T09:05:10.450440Z" modified="2025-09-17T09:05:12.692219Z" visited="2025-09-17T09:05:10.450441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-09-17T09:05:12.692210Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/rp_flask_board/Dockerfile" added="2025-09-23T22:48:54.816006Z" modified="2025-09-23T22:48:55.115321Z" visited="2025-09-23T22:48:54.816007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T22:48:55.115319Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Untitled1.ipynb" added="2025-10-14T03:49:02.523788Z" modified="2025-10-14T03:49:02.523800Z" visited="2025-10-14T03:49:02.523789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-10-14T03:49:02.523798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/exporters/csv_exporter.py" added="2025-10-14T03:49:25.579078Z" modified="2025-10-14T03:49:25.579198Z" visited="2025-10-14T03:49:25.579079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T03:49:25.579081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/data-analysis-project/README.md" added="2025-10-14T03:50:14.363995Z" modified="2025-10-14T03:50:14.364003Z" visited="2025-10-14T03:50:14.363996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T03:50:14.363998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/praktikum-git/README.md" added="2025-10-14T03:52:10.746550Z" modified="2025-10-14T03:52:10.746558Z" visited="2025-10-14T03:52:10.746551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T03:52:10.746554Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/hasil_penjumlahan.csv" added="2025-10-14T18:12:06.922388Z" modified="2025-10-14T18:12:06.923554Z" visited="2025-10-14T18:12:06.922389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:12:06.923549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/hasil_perkalian.csv" added="2025-10-14T18:12:14.704387Z" modified="2025-10-14T18:12:14.704394Z" visited="2025-10-14T18:12:14.704389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:12:14.704390Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/matriks_output.json" added="2025-10-14T18:12:21.654915Z" modified="2025-10-14T18:12:39.133168Z" visited="2025-10-14T18:12:21.654917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2025-10-14T18:12:39.133162Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/data/output/matriks_output.csv" added="2025-10-14T18:12:25.784541Z" modified="2025-10-14T18:12:25.784545Z" visited="2025-10-14T18:12:25.784542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:12:25.784543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/__init__.py" added="2025-10-14T18:13:27.716434Z" modified="2025-10-14T18:13:27.716440Z" visited="2025-10-14T18:13:27.716436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:13:27.716437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/sparsematrix.py" added="2025-10-14T18:13:33.685951Z" modified="2025-10-14T18:17:08.203974Z" visited="2025-10-14T18:13:33.685953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:17:08.203967Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/matriks/matriks_project/matriks/core/exporters/csv_exporter.py" added="2025-10-14T18:16:44.474461Z" modified="2025-10-14T18:16:44.474466Z" visited="2025-10-14T18:16:44.474462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-14T18:16:44.474463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Downloads/student_performance.csv" added="2025-10-14T19:02:58.270575Z" modified="2025-10-15T11:55:31.173635Z" visited="2025-10-14T19:02:58.270576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2025-10-15T11:55:31.158650Z" count="6"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-10-15T11:55:31.173633Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-15T11:46:09.173469Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/sql.ipynb" added="2025-11-03T16:03:49.222256Z" modified="2025-11-03T16:03:53.843521Z" visited="2025-11-03T16:03:49.222257Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/snap/bin/firefox %u&apos;" modified="2025-11-03T16:03:53.843517Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lindaanggara/Untitled.ipynb" added="2025-11-03T16:03:55.659273Z" modified="2025-11-03T16:03:55.751134Z" visited="2025-11-03T16:03:55.659274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/snap/bin/firefox %u&apos;" modified="2025-11-03T16:03:55.751130Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

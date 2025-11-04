@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Buat Post Baru</h2>
+<form method="post">
+    <label>Author</label><br>
+    <input type="text" name="author" placeholder="Anonymous"><br><br>
+
+    <label>Message</label><br>
+    <textarea name="message"></textarea><br><br>
+
+    <button type="submit">Kirim</button>
+</form>
+{% endblock %}
