@@ -2,8 +2,8 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" score="96" last-seen="1762219446"/>
-    <application id="firefox_firefox.desktop" score="3584" last-seen="1762219860"/>
-    <application id="org.gnome.Terminal.desktop" score="17392.296875" last-seen="1762219853"/>
+    <application id="firefox_firefox.desktop" score="3606" last-seen="1762220167"/>
+    <application id="org.gnome.Terminal.desktop" score="17406.296875" last-seen="1762220175"/>
     <application id="org.gnome.gedit.desktop" score="1" last-seen="1762215765"/>
   </context>
 </application-state>
